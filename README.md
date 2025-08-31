@@ -38,6 +38,14 @@ Describe any challenges encountered while building the app.
 * Overall, the project helped me practice breaking down a problem into smaller steps and focusing on one feature at a time before moving to the next.
 
 
+## Future improvements:
+
+* In the future, I could add a search bar for the users to look up the games by their names.
+* I could also add a feature that sorts the game and shows the most popular ones based on the number of backers.
+* I like how there's a top funded and runner up section for the games, however a least funded and second least funded would also help games reach their goal, so that can be added in the future as well.
+
+
+
 ## License
 
     Copyright 2024 Kumud Arora
