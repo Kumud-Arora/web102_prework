@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 Video created with Loom 
 
-https://www.loom.com/share/fce104c1e30941158adf8c65466fa464?sid=5a69bbd6-37ca-461f-a0e3-1fe6dcddb350
+https://www.loom.com/share/598c38999ab94373a21f90acb259bf63?sid=cd566bf4-c377-400e-8162-bcf781a7464f
 
 
 ## Notes
